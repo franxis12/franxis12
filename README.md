@@ -1,36 +1,33 @@
-👋 Hi, I'm Franxis12
+# 👋 Hi, I'm Franxis12
 
-I'm a Junior Front-End Web Developer passionate about building clean, interactive user experiences.
-I love working with React and designing interfaces in Figma.
+I'm a **Junior Front-End Web Developer** passionate about building clean, interactive user experiences.  
+I love working with **React** and designing interfaces in **Figma**.
 
-🚀 Projects
+## 🚀 Projects
+- **[Taskitin.com](https://taskitin.com)**  
+  My biggest project yet! Taskitin is a feature-rich platform designed to boost productivity.  
+  (Ask me about the cool things Taskitin can do!)
 
-Taskitin.com
-My biggest project yet! Taskitin is a feature-rich platform designed to boost productivity.
-(Ask me about the cool things Taskitin can do!)
+- **[TaskHubV2](https://github.com/franxis12/TaskHubV2)** & **[task-hub](https://github.com/franxis12/task-hub)**
+- **[my-portfolio](https://github.com/franxis12/my-portfolio)**
+- **[contador_global](https://github.com/franxis12/contador_global)**
+- **[country_search](https://github.com/franxis12/country_search)**
 
-TaskHubV2 & task-hub
+## 🛠️ Skills
+- **React** (front-end frameworks)
+- **Figma** (UI/UX design)
+- HTML, CSS, JavaScript
+- Always learning something new!
 
-my-portfolio
-
-contador_global
-
-country_search
-
-🛠️ Skills
-
-React (front-end frameworks)
-Figma (UI/UX design)
-HTML, CSS, JavaScript
-Always learning something new!
-📢 About Me
-
-I’m always excited to learn, collaborate, and bring ideas to life through code.
+## 📢 About Me
+I’m always excited to learn, collaborate, and bring ideas to life through code.  
 If you want to chat about front-end, productivity tools, or cool UI designs—let’s connect!
 
-🌐 Find Me Online
+## 🌐 Find Me Online
+- **Instagram:** [Your link here]
+- **X (Twitter):** [Your link here]
+- **YouTube:** [Your link here]
 
-Instagram: [Your link here]
-X (Twitter): [Your link here]
-YouTube: [Your link here]
-Thanks for visiting my profile! Feel free to check out my projects or reach out.
+---
+
+*Thanks for visiting my profile! Feel free to check out my projects or reach out.*
