@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Franxis12
+# 👋 Hi, I'm Francis
 
 I'm a **Junior Front-End Web Developer** passionate about building clean, interactive user experiences.  
 I love working with **React** and designing interfaces in **Figma**.
